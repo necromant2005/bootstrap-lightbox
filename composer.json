@@ -1,0 +1,15 @@
+{
+    "name": "necromant2005/bootstrap-lightbox",
+    "type": "library",
+    "description": "Bootstrap lightbox",
+    "keywords": ["bootstrap", "lightbox", "image", "preview"],
+    "homepage": "https://github.com/necromant2005/bootstrap-lightbox",
+    "authors": [
+        {
+            "name": "Rostislav Mykhajliw",
+            "email": "necromant2005@gmail.com",
+            "homepage": "https://github.com/necromant2005",
+            "role": "Developer"
+        }
+    ]
+  }
